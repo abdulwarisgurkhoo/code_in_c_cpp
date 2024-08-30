@@ -3,7 +3,7 @@
 int main ()
     {
         printf ("HELLO WORLD \n");  // std in and output function use to print 
-        printf ("\n hello everyone my name is abdul waris ");
+        printf ("\n hello everyone my name is abdul waris gurkhoo ");
         return 0;
 
     }
